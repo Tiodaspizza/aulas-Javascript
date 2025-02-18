@@ -37,3 +37,10 @@ for (var i = 0; i < brasilCampeao.length; i++){
 }
 
 
+function myFunction(a, b) {
+   if (a === b) {
+      return true
+   } else {
+      return false
+   }
+}console.log(myFunction(2,2))
